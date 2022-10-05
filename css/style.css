@@ -1,0 +1,13 @@
+.banner-text {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    margin: 10px;
+}
+
+
+.banner { 
+    color: rgb(8, 0, 255);
+}
